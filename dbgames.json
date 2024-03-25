@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "produto": "Jogo Modificado",
+      "descricao": "Descrição do jogo 1",
+      "foto": "jogo1.jpg",
+      "preco": 100,
+      "id": "1"
+    },
+    {
+      "id": 4,
+      "produto": "Jogo 4",
+      "descricao": "Descrição do jogo 4",
+      "foto": "jogo4.jpg",
+      "preco": 400
+    },
+    {
+      "id": 5,
+      "produto": "Jogo 5",
+      "descricao": "Descrição do jogo 5",
+      "foto": "jogo5.jpg",
+      "preco": 500
+    },
+    {
+      "id": 6,
+      "produto": "GTA 5",
+      "descricao": "O melhor",
+      "foto": "jogo4.jpg",
+      "preco": 259
+    }
+  ]
+}
